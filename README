@@ -1,0 +1,4 @@
+# Start Redis in docker
+```
+docker run -d --name redis-lib -p 6379:6379 redis/redis-stack-server:latest
+```

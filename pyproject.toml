@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "2023-hackathon"
+version = "0.1.0"
+description = ""
+authors = ["Bing Wang <bing.wang@flatiron.com>"]
+readme = "README.md"
+packages = [{include = "2023_hackathon"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+redis = "^4.6.0"
+numpy = "^1.25.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
