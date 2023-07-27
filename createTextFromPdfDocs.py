@@ -30,7 +30,6 @@ logger = logging.getLogger(__name__)
 
 
 def createTextArrayFromPdfDocs(folder_path, item):
-    
     converged_text = []
     
     item_path = os.path.join(folder_path, item)

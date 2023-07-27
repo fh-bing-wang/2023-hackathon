@@ -1,0 +1,29 @@
+MERCER  MEDICAL IMAGING  
+NEW YORK
+MRN: 34298347
+Acct: 23409384
+Exam Date/Time: 07/23/2018 09:36 EST 
+Procedure Type: CT CAP W/ ContrastPatient: Mott, Elizabeth 
+DOB:  08/29/1960 
+Age/Sex:  57 / F 
+Attending Provider: Shannon Wu  MD
+CT REPORT
+EXAM DESCRIPTION: 
+CT chest, abdome n, and pelvis with contrast JULY 23, 2018
+CLINICAL INFORMATION: 
+Reason: meta static breas t carcinoma
+TECHNIQUE: 
+Helical slices were obtained through the chest, abdomen, and pelvis following the administration of intravenous and oral contrast.
+COMPARISON: PET CT 04/19/2018  
+FINDINGS: 
+CHEST: Large nodal mass noted in the left axilla on the prior exam is n o longer seen. Heart size is normal. No n ew pulmonary 
+lesions are seen. 
+ABDOMEN: There are multiple low-density lesions in  the liver. These are decreased in size in the interval. An index lesion in the 
+right lobe, image 56 measures 7 x 3 mm currently and measured 8 x 6 mm previously. The oth er lesions also  decreased in size. 
+Cystic lesio n in the kidney remains unchanged. 
+T12 metastatic lesion is again noted. It appears more sclerotic on today's study.
+PELVIS: There is thrombus noted in the left common femoral vein this is a new find ing. There is no adenopath y. 
+IMPRESSION:
+Interval improvement in hepatic lesions and adenopathy. T12 metastatic lesion appears more sclerotic. 
+D: Miranda Garcia, MD
+S: eSigned by: Miranda Garcia M.D. on: [07/23/2018; 11:01]

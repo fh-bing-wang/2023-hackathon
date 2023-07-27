@@ -1,0 +1,45 @@
+Patient: Mott, Elizabeth S18-34 9833 SPRING STREET LABORATORIES
+NEW YORK
+PATHOLOGY REPORT 
+MRN: 34298347 
+Acct: 23409384  Patient: Mott, Elizabeth  
+DOB: 08/29/1960  
+Age/Sex: 57/F  
+Attending Provider: John H Wilson MD Date Collected: 04/12/2018 
+Pathology Specimen S18-349 833 
+ADDENDUM #2: FISH Results 
+ADDENDUM #2 
+ADDITIONAL TESTING: Fluorescence In-S itu Hybridization (FISH) for HER2  ( ERBB2) gene amplification:  
+A: Left breast 12 o’clock, 
+1 cm from nipple, needle core biopsy 
+Invasive ductal carcinoma: 
+POSITIVE for HER2 gene amplification by FISH ratio criteria M onosomy of 
+CEP-17 present (see  comment below) 
+COMMENT: The invasive carcinoma is POSITIVE for HER2 amplification, with an overall 
+HER2/CEP17 ratio of 2.1. Approximately 30% of the analyzed cells have monosomy for the CEP17 signal, which is 
+contributing to the e levated
+ ratio. However, there are increased copies of the HER2 gene with an average of 4.0 HER2 
+copies/cell (range: 1-1 0 copies p
+er cell) with 15% of the cells greater than or equal to 6.  
+FLUORESCENCE IN-S ITU HYBRIDIZATION (FISH) STUDIES: 
+Source: Block A1 
+Population: Cells of interest 
+Procedure  Score  Result  
+HER2 FISH  4 
+CEP-1 7 1.9 
+# of Nuclei scored 200 
+FISH estimated Ratio 2.1 See comment 
+Interpretation:  Invasive ductal carcinom a, POSITIVE for  HER2 gene amplification. M onosomy of CEP-17 present. See comment.  
+Interpreted by:  Peter Lidstrom, MD P hD 
+Comment: A manual count was performed by  two separate technologists. 
+According to the CAP/ASCO 2013 Recommendations, amplification is defined as a HER2/CEP17 signal ratio ≥ 2.0 and/or single-prove 
+average HER2 copy number ≥ 6.0 signals/cell (JCO 31:3997-4013, 2013). Signal ratios < 2.0 and/or single-probe average HER2 copy number < 
+4.0 is considered negative. Dual-probe HER2/CEP17 ratio < 2.0 with an average HER2 copy number ≥ 4.0 and < 6.0 signals/cell is considered to be 
+an “equivocal” result, and should be tested with an alternative assay and/or a new specimen, if available. The results  of this test are meant to be 
+used as an adjunct to other prognostic indicators. Pathology Report 
+Patient: Mott, Elizabeth S18-34 9833 Methodology : Fluoresc ence in situ hybridization (FISH)  for HER-2/neu gene amplification (using PathVysion probes and manual 
+scoring).  
+This test was modified  from the FDA-a pproved protocol and its performance characte ristics determined by  Spring Street Laboratories, New York, NY 10013. This test is for  
+clinical purposes. It should not be regarded as investigational or for research. This laboratory is regulated under the 1988 CLIA amendments as qualified to per form high 
+complexity clinical testing.  
+Addendum #2 perform ed by Peter Lidstrom, M D PhD. Electronically s igned 04/26/2018 11:23. 

@@ -1,0 +1,38 @@
+MERCER  MEDICA L IMAGING  
+NEW YORK
+MRN: 34298347  
+Acct: 23409384
+Exam Date/Time: 04/19/2018 10:30 EST  
+Procedure Type: PET/CT skull to thighPatient: Mott, Elizabeth 
+DOB: 08/29/1960 
+Age/Sex:  57 / F 
+Attending Provider: John  H Wilson  MD
+PET/CT REPORT
+EXAM DESCRIPTION: 
+PET/CT of the body APRIL 19, 2018 
+CLINICAL INFORMATION: 
+Reason: Breast carcinoma, staging  
+TECHNIQUE: 
+The patient was administered 12.9 3 mCi of  fluorin e 18 FDG IV via the right antec ubital 
+fossa and imaging from mid skul l to mid thigh performed with c oncurren tly acquired CT 
+through this same area for attenu ation co rrection  and anatomical localization. F asting 
+blood glucose was 102 mg/dL. Sc an start time was at 1045 hours .
+COMPARISON: 
+No comparison 
+FINDINGS: 
+The large left axillary nodal mass which has recently been biopsied is seen. This 
+measures about 4 cm in greatest diameter with maximum SUV at 15.2. There is an area in 
+the left breast which is hypermetabolic with maximum SUV at 7.1. Unfortunately in 
+addition there is evidence of widespread metastatic disease. There are multiple areas of 
+hilar and mediastinal adenopathy with maximum SUV of 7.6 in a subcarinal nodal mass. 
+There are multiple hepatic metastases suspicious for metastasis as well as multiple 
+skeletal lesions. Largest area of involvement appears to be the T12 vertebral body with 
+the majority of the T12 vertebral body showing a predominantly osteolytic process with 
+maximum SUV at 8.1. Few small pulmonary nodules are seen below the resolution of PET but 
+these are non-specific. Right renal cyst is noted with caval filter in place. Uterus has 
+been removed.
+IMPRESSION:
+Left breast mas s with associat ed axillary adenopathy and widespread metastatic disease as 
+described.
+D: Miranda Garcia, MD
+S: eSigned by: Miranda Garcia M.D. on: 04/19/2018; 12:54

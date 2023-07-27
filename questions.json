@@ -1,0 +1,160 @@
+{
+    "fragments": [
+      {
+        "field_type": "header",
+        "label_text": "Diagnosis"
+      },
+      {
+        "field": "is_bc",
+        "field_type": "conditional",
+        "label_text": "Was this patient diagnosed with breast cancer?",
+        "sectionSchema": {
+          "fragments": [
+            {
+              "field_type": "header",
+              "label_text": "Diagnosis Date"
+            },
+            {
+              "field": "dx_date",
+              "field_type": "date",
+              "label_text": "Enter the breast cancer diagnosis date"
+            },
+            {
+              "field_type": "header",
+              "label_text": "Stage"
+            },
+            {
+              "field": "stage",
+              "field_type": "ajax_vocabulary_select",
+              "label_text": "Select the stage of breast cancer at initial diagnosis",
+              "vocabularyTerms": [
+                "I",
+                "II",
+                "III",
+                "IV",
+                "Not documented"
+              ]
+            },
+            {
+              "field_type": "header",
+              "label_text": "Sites of Metastases"
+            },
+            {
+              "field": "som",
+              "field_type": "checkbox",
+              "label_text": "Indicate which sites of metastases are present at initial diagnosis",
+              "vocabularyTerms": [
+                "Bone",
+                "Brain",
+                "Liver",
+                "Lungs",
+                "Lymph nodes",
+                "None"
+              ]
+            },
+            {
+              "field_type": "header",
+              "label_text": "Biomarkers"
+            },
+            {
+              "field": "bms",
+              "multiple": true,
+              "field_type": "question_block",
+              "label_text": "Biomarkers at initial diagnosis",
+              "sectionSchema": {
+                "fragments": [
+                  {
+                    "field": "bm",
+                    "field_type": "ajax_vocabulary_select",
+                    "label_text": "Select the biomarker",
+                    "vocabularyTerms": [
+                      "ER (Estrogen receptor)",
+                      "PR (Progesterone receptor)",
+                      "HER2 (Human epidermal growth factor receptor 2)"
+                    ]
+                  },
+                  {
+                    "field": "bm_test",
+                    "field_type": "ajax_vocabulary_select",
+                    "label_text": "Select the biomarker testing method",
+                    "vocabularyTerms": [
+                      "IHC (Immunohistochemistry)",
+                      "FISH (Fluorescence in situ hybridization)",
+                      "NGS (Next-generation sequencing)"
+                    ]
+                  },
+                  {
+                    "field": "bm_status",
+                    "field_type": "ajax_vocabulary_select",
+                    "label_text": "Select the biomarker status",
+                    "vocabularyTerms": [
+                      "Positive",
+                      "Negative",
+                      "Equivocal"
+                    ]
+                  }
+                ]
+              },
+              "multiple_label": "Add another biomarker result",
+              "highlight_condition": []
+            },
+            {
+              "field_type": "header",
+              "label_text": "Disease Progression"
+            },
+            {
+              "field": "is_pd",
+              "field_type": "conditional",
+              "label_text": "Did the patient's breast cancer worsen after the initial diagnosis?",
+              "sectionSchema": {
+                "fragments": [
+                  {
+                    "field": "pd",
+                    "multiple": true,
+                    "field_type": "question_block",
+                    "label_text": "Progression events",
+                    "sectionSchema": {
+                      "fragments": [
+                        {
+                          "field": "pd_date",
+                          "field_type": "date",
+                          "label_text": "Enter the visit note date on which the clinician indicates disease progression"
+                        },
+                        {
+                          "field": "pd_evidence",
+                          "field_type": "checkbox",
+                          "label_text": "Select the evidence for disease progression",
+                          "vocabularyTerms": [
+                            "Scan results",
+                            "Laboratory findings",
+                            "Clinical symptoms"
+                          ]
+                        }
+                      ]
+                    },
+                    "multiple_label": "Add another progression event"
+                  }
+                ]
+              },
+              "vocabularyTerms": [
+                "Yes",
+                "No"
+              ]
+            }
+          ]
+        },
+        "vocabularyTerms": [
+          "Yes",
+          "No"
+        ]
+      }
+    ],
+    "section": "",
+    "section_text": "Abstraction Demo",
+    "validation_rules": [
+      {
+        "ruleType": "assertDatesAreComplete"
+      }
+    ]
+  }
+    

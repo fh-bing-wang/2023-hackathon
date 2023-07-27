@@ -1,0 +1,94 @@
+Patient: Mott, Elizabeth S18-34 9833 SPRING STREET LABORATORIES
+NEW YORK
+PATHOLOGY REPORT
+MRN: 34298347 
+Acct: 23409384 Patient: Mott, Elizabeth  
+DOB: 08/29/1960  
+Age/Sex: 57/F  
+Attending Provider: John H Wilson MD Date Collected: 04/12/2018  
+Pathology Specimen S18-349 833 
+Immunohistochemistry Results 
+FINAL DIAGNOSIS 
+A: Left breast 12 o'clock, 1 cm from nipple, needle core biopsy: 
+Invasive carcinoma with the following features: 
+Histologic type: Ductal, not otherwise specified 
+Histologic grade (Nottingham histologic score): High, 3 of 3, (score 9 of 9). 
+Tubule Formation: P
+oor, 3 of 3.   
+Nuclear grade: High, 3 of 3.   
+Mitotic rate: High, 3 of 3. 
+Lymph-va scular invasion: Suspicious. 
+Ductal carcinoma in situ (DCIS): Absent. 
+Additional  F
+indings:  
+ER: 98% positive, variable weak to moderate to strong nuclear  staining. 
+PR: 2
+% positive, weak to moderate nuclear staining.  
+B: Left axilla, needle core biopsy: 
+Invasive ductal carcinoma. 
+CLINICAL INFORMATION 
+A - left breast ultrasound-gu ided needle core biopsy at 12 o'clock 1 cm from nipple. The specimen was put into formation at 09:26 
+a.m. on 04/12/2018
+, this will have a total tim e in formalin of 11 hours and 26 minutes. B - left axilla ultrasound-gu ided biopsy. The
+specimen was put into formali
+n at 09:42 a.m. on 04/12/2018, this will have a total time in formalin of 11 hours and 10 minutes.
+ICD Code(s): N
+63.20, R59.9.
+GROSS DESCRIPTION 
+A: Received in formalin, labeled "Elizabeth Mott", "Lt 12 o'clock N+1", are four  0.2 cm in diameter and ranging in length from 
+1.2-1 .7 cm por
+tions of fibroadipose tissue. The specimen is entirely submitted in A1.  
+B: Received in formalin, labeled "Elizabeth Mott", "Lt axilla", are three 0.1 cm  in diameter and ranging in length from 0.7-1. 4 cm 
+portions of
+ fibroadipose tissue. The specimen is entirely submitted in B1. Received on 04/12/2018 are two alcohol-fi xed, direct 
+smears and two air-d ried direct smears labeled "E Mott" "B: Left axilla". The alcohol-f ixed s mears are Papanicolaou s tained, and 
+the air-d ried smears are Wright s
+tained. (rc) 
+IMMUNOHISTOCHEMISTRY STUDY 
+Methodology: Formalin-f ixed, pa
+raffin embedded tissue and appropriate positive and negative controls are visualized using a polymer-b ased detection system. Unless 
+otherwise noted,
+ all controls were reviewed and met expectations. Results are outlined below:  
+Source: Block A1 
+Population: Cells of i nterest 
+Antibody Result  Comment  
+E-Cadherin Positive  ductal phenotype. Pathology Report 
+Patient: Mott, Eliza beth S18-34 9833 P120 CAT (DAB) Positive  ductal phenotype. 
+Interpreted By: Yoonjung Yang MD 
+Comment:  
+These immunohistochemical tests were developed and performance characteristics determined by Spring Street Labor atories. They have not been cleared or approved by the 
+U.S. Food and Drug Administration. The FDA does not require this test to go through premarket FDA review. These tests may be used for clinical purposes. They should not be 
+regarded as investigational or for research us e only . Spring Street Laboratories is certified under the Clinical Laboratory Improvement Amendments (CLIA) as qualified to 
+perform high complexity clinical laboratory tes ting.  
+IMMUNOHISTOCHEMISTRY STUDY 
+Methodology: Immunohistochem istry studies for estrogen and progesterone (ER/PR) receptors (using rabbit monoc lonal antibody clone SP1 for ER from Ventana and 
+mouse monoclonal antibody clone 16 for PR from Leica) are carried out on formalin fixed and paraffin embedded tissue s ections . Positive and negative controls s how 
+appropriate reactivity. Determination of ER/PR reactivity is based on manual estimation o f the percentage of positive nuclei in tum or cells. Results are as follows:  
+Source: Block A1 
+Population: Cells of i nterest 
+Antibody Result  Comment  
+ERsq 98% of tumor cells positive Variable weak to moderate to strong 
+nuclear staining 
+PRsq 2% of tumor cells positive Weak to moderate nuclear staining 
+Interpreted By: Yoonjung Yang MD 
+Comment:  
+Some immunohistochemistry studies have suggested that as few as  1% positive tumor cells for ER/PR m ay correlate with a significantly improved 
+clinical response of patients to therapeutic and adjuvant hormonal therapy. Based on this information, tumors  showing 1% or greater of tumor cell 
+nuclear staining for E R/PR may be considered positive.
+These immunohistochemical tests were developed and performance characteristics de termined by Spring Street Labor atories . They have not been cleared or approved by the 
+U.S. Food and Drug Administration. The FDA does not require this test to go through premark et FDA review. These tests may be used for clinical purposes. They should not 
+be regarded as investigational or for  research use only. Spring Street Laboratories is certified under the Clinical Laboratory Improvement Amendments ( CLIA) as qualified to 
+perform high complexity clinical laborator y testing.  
+ADDENDUM #1 
+IMMUNOHISTOCHEMISTRY STUDY 
+Testing performed by  Spring Street Laboratories, New York, NY  10013 
+SS2018-34383 -01, issued 04/13/2018 interpreted by Yoonjung Yang M.D. 
+Result (A1): Left breast at 12 o’clock:  Invasive ductal carcinoma. 
+Antibodies to 
+[Clone] Result 
+HER2[4B5] EQUIVOCAL (2+) 
+Comment: This tumor shows a 2+ level of immunostaining (IHC) which, according to the 2013 revised ASCO-C AP Guidelines (Wolff 
+AC et al., J Clin Oncol 31:3997-40 13, 2013), puts it in the category of “equivocal” HER2 status by IHC.  
+Please refer to the Spring Street Laboratories  report (SS2018-34 383-01) for a complete description o f the results and further details. A copy will be re tained in the patient’s 
+record. If you would like to receiv e a copy of this report, please contact us at 866-348-349 3. 
+Yoonjung Yang, M D. Electronically s igned 04/13/2018 10:22 

@@ -2,3 +2,18 @@
 ```
 docker run -d --name redis-lib -p 6379:6379 redis/redis-stack-server:latest
 ```
+
+# Create embedding library
+```
+python3 createEmbeddingLibrary.py
+```
+
+# Run chat bot
+```
+python3 main.py
+```
+
+# Run chat bot for print out details
+```
+python3 main.py --echo
+```

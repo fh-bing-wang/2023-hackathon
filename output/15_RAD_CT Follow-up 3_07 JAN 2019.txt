@@ -1,0 +1,35 @@
+MERCER  MEDICAL IMAGING  
+NEW YORK
+MRN: 34298347
+Acct: 23409384
+Exam Date/Time:
+ 01/07/2019 14:14 EST 
+Procedure Type: CT CAP W/ ContrastPatient:  Mott, Elizabeth 
+DOB:  08/29/1960 
+Ag
+e/Sex:  58 / F 
+Attending
+ Provider: Shannon Wu  M D
+CT REPORT
+EXAM DESCRIPTION: 
+CT chest, abdome n, and pelvis with contra st JANUARY 07, 2019
+CLINICAL INFORMATION: 
+Reason: meta static breas t carcinoma
+TECHNIQUE: 
+Helical slices were obtained through the chest, abdomen, and pelvis following the administration of intravenous and oral contrast.
+COMPARISON: 
+CT Chest Abdomen  and Pelvis W/ Con trast dated 10/15/2018.
+FINDINGS: 
+CHEST: 
+There is a new rounded nodule in the inferior left lower lob e, image 92, measuring 1 cm. There has been interval progression of 
+bony metastatic disease, for example the previously seen blastic lesion within the right aspect of the T12 vertebral body has increased 
+in size since prior exams. 
+ABDOMEN: 
+There are at least three new hypermetabolic lesions identified within the liver with  SUV measuring up to  8.5. 
+PELVIS: No adenopathy noted. 
+IMPRESSION:
+A new nodule in the left lower lobe suspicious for metastatic d
+isease. Increase in number of bone metastases and size of blastic osseous 
+lesion consistent with progression of metastatic disease. New liver metastases. 
+D: Shanu Richards, MD
+S: eSigned by: Shanu Richards M.D. on: [01/07/2019; 15:16]

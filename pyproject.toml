@@ -10,6 +10,10 @@ packages = [{include = "2023_hackathon"}]
 python = "^3.10"
 redis = "^4.6.0"
 numpy = "^1.25.1"
+python-dotenv = "^1.0.0"
+openai = "^0.27.8"
+azure-identity = "^1.13.0"
+pypdf2 = "^3.0.1"
 
 
 [build-system]

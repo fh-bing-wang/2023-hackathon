@@ -31,6 +31,8 @@ for item in items:
     text_chunks = chunker(texts, 16)
     all_embeddings = []
     for chunk in text_chunks:
-        all_embeddings += aiServer.get_embedding(chunk)
+        all_embeddings += aiServer.get_embeddings(chunk)
     redisServer.create_hash('patient_a', texts, all_embeddings, item.replace('.pdf', ''))
-    logger.info("Added hash for %s.", item)
+    print("Added hash for %s.", item)
+
+redisServer.create_index('patient_a')
