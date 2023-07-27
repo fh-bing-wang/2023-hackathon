@@ -10,36 +10,35 @@ class RedisServer():
     def __init__(self, redis_host, redis_port, redis_password):
         self.conn = redis.Redis(host=redis_host, port=redis_port, password=redis_password, encoding='utf-8', decode_responses=True)
     
-    def create_hash(self, words, embeddings):
+    def create_hash(self, patient_id, documents, embeddings, item):
         p = self.conn.pipeline(transaction=False)
-        for i, vector in enumerate(embeddings):
-            # report progress
-            print("Create embedding and save for entry ", i, " of ", words)
+        i = 0
+        for doc, vector in zip(documents, embeddings):
 
             # embedding = json.dumps(vector["embedding"])
             embedding = np.array(vector["embedding"]).astype(np.float32).tobytes()
 
             word_hash = {
-                "word": words[i],
+                "doc": doc,
                 "embedding": embedding
             }
         
             # create hash
-            self.conn.hset(name=f"word:{i}", mapping=word_hash)
-        
+            self.conn.hset(name=f"{patient_id}:{item}_{i}", mapping=word_hash)
+            i+=1
         p.execute()
     
-    def create_index(self, index_name):
+    def create_index(self, patient_id):
         SCHEMA = [
-            TextField("word"),
+            TextField("doc"),
             VectorField("embedding", "HNSW", {"TYPE": "FLOAT32", "DIM": 1536, "DISTANCE_METRIC": "COSINE"}),
         ]
         
         # Create the index
         try:
-            # creates a RediSearch index named ""
-            # extra config: the keys should be prefixed with "word:"
-            self.conn.ft(index_name).create_index(fields=SCHEMA, definition=IndexDefinition(prefix=["word:"], index_type=IndexType.HASH))
+            # creates a RediSearch index named "{patient_id}_index"
+            # extra config: the keys should be prefixed with "{patient_id}:"
+            self.conn.ft("{patient_id}_index").create_index(fields=SCHEMA, definition=IndexDefinition(prefix=["{patient_id}:"], index_type=IndexType.HASH))
         except Exception as e:
             print("Index already exists")
 
@@ -51,12 +50,12 @@ class RedisServer():
         related_tokens = []
         if results:
             print(f"Found {results.total} results:")
-            for i, word in enumerate(results.docs):
-                score = 1 - float(word.vector_score)
-                print(f"\t{i}. {word} (Score: {round(score ,3) })")
+            for i, doc in enumerate(results.docs):
+                score = 1 - float(doc.vector_score)
+                print(f"\t{i}. {doc} (Score: {round(score ,3) })")
 
                 if score >= 0.6:
-                    related_tokens.append(word.word)
+                    related_tokens.append(doc.doc)
         return related_tokens
     
     def _search_vectors(self, query_vector, top_k=5):
